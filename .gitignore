@@ -2,14 +2,10 @@ node_modules/
 .DS_Store
 Thumbs.db
 npm-debug.log
-/config/
+/config/config.js
 /vendor/
 /caches/
 
-/play.pokemonshowdown.com/dirindex/webfonts/
-/play.pokemonshowdown.com/dirindex/fontawesome5*
-
-/play.pokemonshowdown.com/sprites/
 /play.pokemonshowdown.com/audio/
 
 # built from other sources
